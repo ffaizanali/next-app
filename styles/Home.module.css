@@ -1,0 +1,15 @@
+.container {
+  background-color: red;
+  color: yellow;
+}
+
+.nav{
+  font-size: 3rem;
+  color: gray;
+}
+.nav ul{
+display: flex;
+}
+.nav ul li{
+padding: 1rem;
+}
